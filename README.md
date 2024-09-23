@@ -12,8 +12,18 @@
 <a href="https://x.com/immortalpirate21st" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="immortalpirate21st" height="30" width="40" /></a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ZubayerRownak&color=blue&style=flat-square)
-[![Mail](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+![Stars](https://badgen.net/github/stars/ZubayerRownak/Craftfolio?icon=github&label=Stars)
+![Forks](https://badgen.net/github/forks/ZubayerRownak/Craftfolio?icon=github&label=Forks)
+![Issues](https://img.shields.io/github/issues/ZubayerRownak/Craftfolio)
+![Pull Requests](https://img.shields.io/github/issues-pr/ZubayerRownak/Craftfolio)
+![Languages Used](https://img.shields.io/github/languages/count/ZubayerRownak/Craftfolio)
+![Open Source](https://badgen.net/badge/Open%20Source/Yes/blue?icon=github)
+[![Discord](https://img.shields.io/discord/ID?color=7289da&label=Join%20Community&logo=discord&logoColor=white)](https://discord.gg/Y6P5QDSh)
+![License](https://img.shields.io/github/license/ZubayerRownak/Craftfolio)
+
+
+
+
 
 
 <!-- 
@@ -77,21 +87,27 @@ and shaping the future 🌍 through creativity ✨ and code 💻!"</h6>
 
 <h2>📚 Enhanching Proficiency in : </h2>
 
-- ![HTML](https://img.shields.io/badge/HTML5-FF5733?style=flat-square&logo=html5&logoColor=white) - **Web Development**: Crafting the structure of websites.
+<!--
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
+- 🔭 I’m currently working on ...
 
-- ![CSS](https://img.shields.io/badge/CSS3-2965F1?style=flat-square&logo=css3&logoColor=white) - **Styling & Layout**: Bringing designs to life with styles and layouts.
-
-
-- ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) - **System Programming**: Developing efficient and high-performance software.
-
-
-- ![Python](https://img.shields.io/badge/Python-4B8BBE?style=flat-square&logo=python&logoColor=white) - **Scripting & Automation**: Automating tasks and building powerful applications.
-- ![JavaScript](https://img.shields.io/badge/JavaScript-FFDD00?style=flat-square&logo=javascript&logoColor=black) - **Interactive Web Apps**: Enhancing user experiences with interactive features.
-
-
-- ![PHP](https://img.shields.io/badge/PHP-787CB5?style=flat-square&logo=php&logoColor=white) - **Backend Development**: Building dynamic websites and server-side applications.
-- ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) - **Shell Scripting**: Managing system tasks and automating workflows.
+| Courses | Description | Project Link |
+|---------|-------------|--------------|
+|![HTML](https://img.shields.io/badge/HTML5-FF5733?style=flat-square&logo=html5&logoColor=white) |**Web Development**: Crafting the structure of websites. | [Project Link](https://github.com/ZubayerRownak/Craftfolio) |
+|![CSS](https://img.shields.io/badge/CSS3-2965F1?style=flat-square&logo=css3&logoColor=white) |**Styling & Layout**: Bringing designs to life with styles and layouts. | [Project Link](https://github.com/ZubayerRownak/Craftfolio) |
+|![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |**System Programming**: Developing efficient and high-performance software. | [Project Link](https://github.com/ZubayerRownak/Craftfolio) |
+|![Python](https://img.shields.io/badge/Python-4B8BBE?style=flat-square&logo=python&logoColor=white) |**Scripting & Automation**: Automating tasks and building powerful applications. | [Project Link](https://github.com/ZubayerRownak/Craftfolio) |
+|![JavaScript](https://img.shields.io/badge/JavaScript-FFDD00?style=flat-square&logo=javascript&logoColor=black) |**Interactive Web Apps**: Enhancing user experiences with interactive features. | [Project Link](https://github.com/ZubayerRownak/Craftfolio) |
+|![PHP](https://img.shields.io/badge/PHP-787CB5?style=flat-square&logo=php&logoColor=white) |**Backend Development**: Building dynamic websites and server-side applications. | [Project Link](https://github.com/ZubayerRownak/Craftfolio) |
+|![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |**Shell Scripting**: Managing system tasks and automating workflows. | [Project Link](https://github.com/ZubayerRownak/Craftfolio) |
 
 
 
@@ -122,39 +138,5 @@ and shaping the future 🌍 through creativity ✨ and code 💻!"</h6>
 
 ----
 <div align="center"><a>Code and Craftmanship</a></div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Hi there 👋
-
-**ZubayerRownak/ZubayerRownak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 - 
