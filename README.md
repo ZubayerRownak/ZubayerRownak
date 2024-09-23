@@ -22,82 +22,87 @@
 ![License](https://img.shields.io/github/license/ZubayerRownak/Craftfolio)
 
 
-
-
-
-
-<!-- 
-<a href="https://codepen.io/immortalpirate21st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="immortalpirate21st" height="30" width="40" /></a>
-<a href="https://dev.to/immortalpirate21st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="immortalpirate21st" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/immortalpirate21st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="immortalpirate21st" height="30" width="40" /></a>
 <a href="https://codesandbox.com/immortalpirate21st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="immortalpirate21st" height="30" width="40" /></a>
 <a href="https://medium.com/immortalpirate21st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="immortalpirate21st" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/immortalpirate21st" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="immortalpirate21st" height="30" width="40" /></a>
--->
 
 </div>
 <h6 align="center">"🚀 Developer passionate about crafting apps 📱, games 🎮,
 and shaping the future 🌍 through creativity ✨ and code 💻!"</h6>
 <div align="center">
-
-
-<!--
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/immortalpirate21st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="immortalpirate21st" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/immortalpirate21st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="immortalpirate21st" height="30" width="40" /></a>
-<a href="https://fb.com/immortalpirate21st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="immortalpirate21st" height="30" width="40" /></a>
-<a href="https://instagram.com/immortalpirate21st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="immortalpirate21st" height="30" width="40" /></a>
-<a href="https://discord.gg/immortalpirate21st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="immortalpirate21st" height="30" width="40" /></a>
-<a href="https://twitter.com/immortalpirate21st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="immortalpirate21st" height="30" width="40" /></a>
-<a href="https://codepen.io/immortalpirate21st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="immortalpirate21st" height="30" width="40" /></a>
-<a href="https://dev.to/immortalpirate21st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="immortalpirate21st" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/immortalpirate21st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="immortalpirate21st" height="30" width="40" /></a>
-<a href="https://codesandbox.com/immortalpirate21st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="immortalpirate21st" height="30" width="40" /></a>
-<a href="https://medium.com/immortalpirate21st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="immortalpirate21st" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/immortalpirate21st" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="immortalpirate21st" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/immortalpirate21st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="immortalpirate21st" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/immortalpirate21st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="immortalpirate21st" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/immortalpirate21st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="immortalpirate21st" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/immortalpirate21st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="immortalpirate21st" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/immortalpirate21st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="immortalpirate21st" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/immortalpirate21st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="immortalpirate21st" height="30" width="40" /></a>
-<a href="/immortalpirate21st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="immortalpirate21st" height="30" width="40" /></a>
-</p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/your-reddit-profile)
-[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@your-threads-profile)
-[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/your-twitter-profile)
-[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/your-pinterest-profile)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/your-facebook-profile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4235F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram-profile)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/your-youtube-channel)
-</div>
-
--->
-
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=ZubayerRownak" alt="ZubayerRownak" style="width: 50%; max-width: 300px;" />
     </a>
 </p>
+</div>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <h2>📊 <strong>GitHub Stats:</strong></h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=ZubayerRownak&show_icons=true&locale=en" alt="ZubayerRownak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZubayerRownak&" alt="ZubayerRownak" />
+</div>
+<h2>🌱 <strong>Currently Learning:</strong></h2>
+<ul>
+  <li>🔒 Cybersecurity</li>
+  <li>🌐 Internet of Things (IoT)</li>
+  <li>🎮 Game Development</li>
+</ul>
+<h2>🎮 <strong>Projects:</strong></h2>
+<ol>
+  <li>
+    <strong>Project1:</strong> <br>
+    <img src="https://media.giphy.com/media/YOUR_PROJECT_GIF_LINK.gif" alt="Project Demo"> <!-- replace with actual GIF link -->
+  </li>
+  <li>
+    <strong>Project2:</strong> A smart home IoT system with real-time monitoring.
+  </li>
+</ol>
+<h2>🏆 <strong>Achievements & Certifications:</strong></h2>
 
-<div align="left">
+<ul>
+    <li>
+        🎖 <strong>HTML & CSS Certification Course for Beginners:</strong> Successfully completed a comprehensive course on Udemy.<br>
+        <strong>Certificate Number:</strong> UC-1753c3b1-59d7-44f5-83a1-b2ac3de1508f<br>
+        <a href="https://ude.my/UC-1753c3b1-59d7-44f5-83a1-b2ac3de1508f">View Certificate</a>
+    </li>
+</ul>
+<h2>🔄 <strong>Recent Activity:</strong></h2>
+<ul>
+  <li>🔧 Contributed to an open-source cybersecurity project.</li>
+  <li>🌐 Developed a responsive website for a local business.</li>
+</ul>
+<h3>📝 <strong>Technical Writing:</strong></h3>
+<ul>
+    <li>🖋 Published articles on Medium about IoT Applications and Cybersecurity Best Practices.</li>
+    <li>✍️ Writing a beginner’s guide to Game Development with Unity.</li>
+</ul>
 
-<h2>📚 Enhanching Proficiency in : </h2>
+<h3>🌐 <strong>Community Involvement:</strong></h3>
+<ul>
+    <li>📢 Active member of local tech meetups and coding communities.</li>
+    <li>🌟 Contributor to open-source projects focused on privacy tools and educational resources.</li>
+</ul>
 
-<!--
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🎤 <strong>Speaking Engagements:</strong></h3>
+<ul>
+    <li>🎙 Conducted workshops on “Introduction to IoT” and “Basics of Cybersecurity” at local colleges.</li>
+    <li>🗣 Speaker at college seminars on “The Future of Technology and Innovation.”</li>
+</ul>
 
-- 🔭 I’m currently working on ...
+<h3>🔍 <strong>Hobbies & Interests:</strong></h3>
+<ul>
+    <li>🛠 Building DIY projects using Arduino and Raspberry Pi.</li>
+    <li>🎧 Enjoy creating ambient music and soundscapes using digital tools.</li>
+</ul>
+
+<h3>💡 <strong>Future Plans:</strong></h3>
+<ul>
+    <li>🧩 Plan to contribute to OpenCV projects.</li>
+    <li>🛡 Working on a personal project to develop a privacy-focused mobile app.</li>
+</ul>
+
+<h3>📚 <strong>Learning & Courses:</strong></h3>
 
 | Courses | Description | Project Link |
 |---------|-------------|--------------|
@@ -109,11 +114,88 @@ and shaping the future 🌍 through creativity ✨ and code 💻!"</h6>
 |![PHP](https://img.shields.io/badge/PHP-787CB5?style=flat-square&logo=php&logoColor=white) |**Backend Development**: Building dynamic websites and server-side applications. | [Project Link](https://github.com/ZubayerRownak/Craftfolio) |
 |![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |**Shell Scripting**: Managing system tasks and automating workflows. | [Project Link](https://github.com/ZubayerRownak/Craftfolio) |
 
+<h2>📚 <strong>Courses & Certifications:</strong></h2>
 
+<h3>✅ <strong>Completed:</strong></h3>
+<ol>
+    <li><strong>HTML & CSS Certification Course for Beginners</strong><br>
+        🏫 <em>Udemy</em><br>
+        📜 Certificate Number: <code>UC-1753c3b1-59d7-44f5-83a1-b2ac3de1508f</code><br>
+        🔗 <a href="https://ude.my/UC-1753c3b1-59d7-44f5-83a1-b2ac3de1508f">View Certificate</a><br>
+        ✨ <em>Mastered foundational skills for building responsive web pages using HTML5 and CSS3.</em>
+    </li>
+    <li><strong>WordPress for Absolute Beginners</strong><br>
+        🏫 <em>Udemy</em><br>
+        ✨ <em>Learned to create and manage WordPress websites, including themes and plugins for personal and business use.</em>
+    </li>
+    <li><strong>Basics of Artificial Intelligence</strong><br>
+        🏫 <em>10 Minute School</em><br>
+        📜 Certificate ID: <code>6204bc3d00560</code><br>
+        📅 Issued: 2022-02-10<br>
+        🔗 <a href="https://onedrive.live.com/?authkey=%21AKoVI%2DtYWghgD3Y&id=529F323D85372CD7%211082&cid=529F323D85372CD7&parId=root&parQt=sharedby&o=OneUp">View Certificate</a><br>
+        ✨ <em>Gained fundamental knowledge of AI concepts and applications.</em>
+    </li>
+</ol>
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ZubayerRownak&show_icons=true&locale=en" alt="ZubayerRownak" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZubayerRownak&" alt="ZubayerRownak" />
+<h3>🚀 <strong>In Progress:</strong></h3>
+<ol>
+    <li><strong>Object Oriented Programming in C++ & Interview Preparation</strong><br>
+        🏫 <em>Udemy</em><br>
+        📍 <em>Strengthening understanding of OOP principles in C++ and preparing for technical interviews.</em>
+    </li>
+    <li><strong>JavaScript & jQuery - Certification Course for Beginners</strong><br>
+        🏫 <em>Udemy</em><br>
+        📍 <em>Enhancing web development skills with dynamic and interactive elements using JavaScript and jQuery.</em>
+    </li>
+    <li><strong>Git & GitHub Crash Course: Create a Repository From Scratch!</strong><br>
+        🏫 <em>Udemy</em><br>
+        📍 <em>Developing essential version control skills for collaborating and managing projects efficiently.</em>
+    </li>
+  </ol>
+<h2>👯 <strong>Looking to Collaborate On:</strong></h2>
+<ul>
+  <li>💡 Innovative tech projects, including web and app development.</li>
+  <li>🌍 Open-source contributions in cybersecurity and IoT domains.</li>
+</ul>
+
+<h2>🤔 <strong>Seeking Help With:</strong></h2>
+<ul>
+  <li>🧠 Deepening my understanding of advanced programming concepts.</li>
+  <li>🔐 Applying cybersecurity techniques in real-world scenarios.</li>
+</ul>
+
+<h2>💬 <strong>Ask Me About:</strong></h2>
+<ul>
+  <li>🚀 Latest tech innovations.</li>
+  <li>💻 Programming languages and frameworks.</li>
+  <li>🛡 Online privacy and cybersecurity practices.</li>
+</ul>
+
+<div align="center">
+<h2>📫 <strong>How to Reach Me:</strong></h2>
+<a href="https://www.linkedin.com/in/zubayer-rownak">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/ZubayerRownak">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+</a>
+</div>
+
+<div align="center">
+<h2>🛠 <strong>Tech Stack & Tools:</strong></h2>
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
+</p>
 </div>
 
 <p align="center">
@@ -132,6 +214,7 @@ and shaping the future 🌍 through creativity ✨ and code 💻!"</h6>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="23" height="23"/> </a> 
   
 ----
-<div align="center"><a>Code and Craftmanship</a></div>
-
-- 
+<div align="center"><h6>Code and Craftmanship</h6>
+<h2>⚡ <strong>Fun Fact:</strong></h2>
+  <h4>🎯 “Programmers don’t argue; they just commit their point.”</h4>
+</div>
