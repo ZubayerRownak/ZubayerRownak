@@ -34,7 +34,7 @@ and shaping the future 🌍 through creativity ✨ and code 💻!"</h6>
   <li>🌐 <strong>Internet of Things (IoT) - </strong>Connecting devices for smarter solutions.</li>
   <li>🎮 <strong>Game Development - </strong>Creating immersive gaming experiences.</li>
 </ul>
-<h2>🎮 <strong>Project Creation:-</strong>Securing systems and data from threats.</h2>
+<h2>🎮 <strong>Project Creation : </strong></h2>
 <ol>
   <li>
     <strong>Project1:</strong> <br>
